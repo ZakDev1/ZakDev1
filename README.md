@@ -1,5 +1,24 @@
 # 💫 About Me:
-I am currently working on many projects such as a Chat App built with next.js, tailwindcss & mysql. 
+
+  Hi there! I'm a seasoned website developer with extensive experience in creating user-friendly and visually appealing websites. My expertise spans across HTML, CSS, JavaScript/Typescript, and Python.
+  
+  ## My Journey
+  
+  My passion for web development ignited in Year 9 when I built my very first portfolio. This initial project sparked a deep interest in crafting websites that blend functionality with aesthetic appeal, and I've been captivated ever since.
+  
+  Throughout my school years, I seized every opportunity to enhance my skills and knowledge. One of the standout experiences was working as a web developer for a community center during my work experience. This role allowed me to apply my technical skills in a real-world setting, further fueling my enthusiasm for web development.
+  
+  ## Professional Growth
+  
+  Over the years, I've earned multiple certifications in full stack development, providing me with a robust understanding of both front-end and back-end technologies. My ability to quickly adapt and remain composed under pressure ensures that I consistently deliver high-quality results.
+  
+  ## Future Aspirations
+  
+  My ultimate goal is to work for a leading tech company like Google or Microsoft, contributing to innovative projects and expanding my expertise. However, I'm equally excited about the prospect of freelancing or starting my own company, where I can leverage my skills to help clients achieve their digital visions.
+  
+  ## Interests
+  
+  Beyond web development, I'm deeply fascinated by the intersection of web development and artificial intelligence. I believe that integrating AI into web applications will revolutionize the industry, and I aim to be at the forefront of this exciting evolution.
 
 
 # 💻 Tech Stack:
