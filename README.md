@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello! I'm a upcoming website developer with experience in creating user-friendly, modern and visually appealing websites. My expertise spans across HTML, CSS, JavaScript/Typescript, Python and more. Beyond web development, I am interested in the developments of artificial intelligence and machine learning. 
+Hello! I'm a upcoming web developer with experience in creating user-friendly, modern and visually appealing websites. My knowledge spans across HTML, CSS, JavaScript/Typescript, Python and more. Beyond web development, I am interested in the developments of artificial intelligence and machine learning. 
 
 
 # 💻 Tech Stack:
