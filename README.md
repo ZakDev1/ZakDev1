@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-  Hi there! I'm a seasoned website developer with extensive experience in creating user-friendly and visually appealing websites. My expertise spans across HTML, CSS, JavaScript/Typescript, and Python. Beyond web development, I'm deeply fascinated by the intersection of web development and artificial intelligence. I believe that integrating AI into web applications will revolutionize the industry, and I aim to be at the forefront of this exciting evolution.
+Hello! I'm a upcoming website developer with experience in creating user-friendly, modern and visually appealing websites. My expertise spans across HTML, CSS, JavaScript/Typescript, Python and more. Beyond web development, I am interested in the developments of artificial intelligence and machine learning. 
 
 
 # 💻 Tech Stack:
