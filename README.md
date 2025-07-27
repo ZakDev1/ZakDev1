@@ -1,8 +1,10 @@
 # 💫 About Me
 
-Hi there! I'm an aspiring web developer passionate about building modern, user-friendly, and visually engaging web applications. I specialize in HTML, CSS, JavaScript/TypeScript, and Python, with growing experience in full-stack development.
+Hello! Building quick, responsive, and contemporary web applications with technologies like **React**, **Next.js**, and **TailwindCSS** is my primary focus as a web developer. I've worked on a variety of projects over the last few years, from full-stack web apps to personal websites.
 
-Outside of web development, I'm deeply interested in artificial intelligence and machine learning, always exploring how these technologies can shape the future.
+I'm currently learning **Flutter**, **Swift**, and **React Native** while broadening my skill set to include **mobile app development**. In my free time, I like to experiment with new technology and tools.
+
+I'm always up for working together, sharing knowledge, and creating amazing things with other developers!
 
 ---
 
