@@ -1,10 +1,8 @@
 # 💫 About Me
 
-Hello! Building quick, responsive, and contemporary web applications with technologies like **React**, **Next.js**, and **TailwindCSS** is my primary focus as a web developer. I've worked on a variety of projects over the last few years, from full-stack web apps to personal websites.
+Hello, I like to build quick, responsive, and contemporary web applications with technologies like **React**, **Next.js**, and **TailwindCSS**. I've worked on a variety of projects over the last few years, from full-stack web apps to personal websites.
 
-I'm currently learning **Flutter**, **Swift**, and **React Native** while broadening my skill set to include **mobile app development**. In my free time, I like to experiment with new technology and tools.
-
-I'm always up for working together, sharing knowledge, and creating amazing things with other developers!
+I'm currently learning **Flutter** and **Swift** while broadening my skill set to include **mobile app development**. In my free time, I like to experiment with new technology and tools.
 
 ---
 
@@ -30,19 +28,6 @@ I'm always up for working together, sharing knowledge, and creating amazing thin
 
 ---
 
-## 🚀 Featured Projects
-
-- [**Portfolio Website**](https://your-portfolio-link.com)  
-  _A fully responsive personal portfolio site built with React, Tailwind CSS, and deployed via Vercel._
-
-- [**AI-Powered News Summarizer**](https://github.com/ZakDev1/ai-news-summarizer)  
-  _Uses OpenAI API and React to summarize breaking news articles in real-time._
-
-- [**Chat App**](https://github.com/ZakDev1/chat-app)  
-  _Full-stack chat app using Express.js, Socket.IO, and MongoDB._
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ZakDev1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
@@ -59,8 +44,7 @@ I'm always up for working together, sharing knowledge, and creating amazing thin
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://zakt.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaktoms)  
 
 ---
