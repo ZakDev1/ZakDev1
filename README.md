@@ -1,8 +1,8 @@
 # 💫 About Me
 
-Hello, I like to build quick, responsive, and contemporary web applications with technologies like **React**, **Next.js**, and **TailwindCSS**. I've worked on a variety of projects over the last few years, from full-stack web apps to personal websites.
+I make websites and web apps - mostly with **React**, **Next.js**, and **TailwindCSS**. I've been doing it for a few years now across a mix of full-stack and personal projects. 
 
-I'm currently learning **Flutter** and **Swift** while broadening my skill set to include **mobile app development**. In my free time, I like to experiment with new technology and tools.
+Lately I've been picking up mobile development using **Expo** and **React Native**, and when I'm not doing that I'm probably experimenting with some new tool or tech.
 
 ---
 
